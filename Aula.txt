@@ -1,2 +1,2 @@
 Trabalhando com o Git
-E Realizando alterações
+E Realizando alterações frequentemente
